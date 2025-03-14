@@ -6,7 +6,7 @@
 *Plans and executes a project in their track at Level 2 of the HBO-i framework regarding autonomy and complexity, in an agile way.*  
 
 #### **Goal:**  
-I aim to develop **data skills** through online courses, focusing on two main areas:  
+I aim to develop **data skills** through online courses and Canon project, focusing on two main areas:  
 ✅ **Analysis**  
 ✅ **Implementation**  
 
@@ -17,10 +17,11 @@ I aim to develop **data skills** through online courses, focusing on two main ar
 - **Week 2:** Python online course + assignment  
   🔗 [Course Link](https://images.hahow.in/images/66768214fb7a2272b4ba139a)  
 
-- **Week 3:** Python online course + assignment  
+- **Week 3:** Python online course + assignment + initial ideas
   🔗 [Course Link](https://images.hahow.in/images/6677d95fc3a336d5732a9408)  
+  🔗 [Notes Link]([https://images.hahow.in/images/6677d95fc3a336d5732a9408](https://docs.google.com/document/d/10I9zcVJ-AIP5Gz5hUSLAL5S_BEYI59LEKaXFN8-DDLM/edit?usp=sharing))  
 
-- **Week 4:** Python online course + assignment  
+- **Week 4:** Python online course + assignment 
   🔗 [Course Link](https://images.hahow.in/images/667d18c66195b50a63ceec9f)  
 
 ---
