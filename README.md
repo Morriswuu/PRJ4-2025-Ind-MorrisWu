@@ -19,7 +19,7 @@ I aim to develop **data skills** through online courses and Canon project, focus
 
 - **Week 3:** Python online course + assignment + initial ideas
   🔗 [Course Link](https://images.hahow.in/images/6677d95fc3a336d5732a9408)  
-  🔗 [Notes Link]([https://images.hahow.in/images/6677d95fc3a336d5732a9408](https://docs.google.com/document/d/10I9zcVJ-AIP5Gz5hUSLAL5S_BEYI59LEKaXFN8-DDLM/edit?usp=sharing))  
+  🔗 [Notes Link]([https://images.hahow.in/images/6677d95fc3a336d5732a9408](https://docs.google.com/document/d/10I9zcVJ-AIP5Gz5hUSLAL5S_BEYI59LEKaXFN8-DDLM/edit?usp=sharing)](https://docs.google.com/document/d/10I9zcVJ-AIP5Gz5hUSLAL5S_BEYI59LEKaXFN8-DDLM/edit?tab=t.0))  
 
 - **Week 4:** Python online course + assignment 
   🔗 [Course Link](https://images.hahow.in/images/667d18c66195b50a63ceec9f)  
