@@ -53,6 +53,3 @@ I want to grow in multiple aspects while keeping things **healthy** and **fun**.
 🔗 **Dashboard for Tracking:** [My Notion Dashboard](https://www.notion.so/95cc22b66ae046f9bd91589613a2b03c?v=cde7c9b78f49406bbeba6eda1662dcf5&pvs=4)  
 *Ongoing project updates, reflections, and insights into professional development.*  
 
----
-
-這樣每個連結都有一點背景說明，看起來更完整也更容易理解！覺得如何？😊
