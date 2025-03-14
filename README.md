@@ -1,7 +1,3 @@
-這裡是加入簡短摘要後的版本，每個連結都有簡單的描述，讓內容更清楚：  
-
----
-
 # **PRJ4-2025-Ind-MorrisWu**  
 
 ## **Learning Outcomes (LOs)**  
