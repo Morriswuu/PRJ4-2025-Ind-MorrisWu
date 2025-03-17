@@ -29,7 +29,8 @@ I aim to develop **data skills** through online courses and the Canon project, f
   🔗 [Course Link](https://images.hahow.in/images/667d18c66195b50a63ceec9f)  
   *Applying Python skills to real-world datasets and completing a mini project.*  
 
----
+- **Week 5:** Python online course + Canon Project ideas  
+  🔗 [Business Analysis Structure](https://www.notion.so/Business-Analysis-Structure-1b8f94066b8080d6a8a7e08eda0e8d54?pvs=4)  
 
 ### **LO2**  
 *Demonstrates professional skills at Level 2 in the focus areas: future-oriented organization, investigative ability, personal leadership, and targeted interaction.*  
@@ -48,4 +49,6 @@ I want to grow in multiple aspects while keeping things **healthy** and **fun**.
 
 🔗 **Dashboard for Tracking:** [My Notion Dashboard](https://www.notion.so/95cc22b66ae046f9bd91589613a2b03c?v=cde7c9b78f49406bbeba6eda1662dcf5&pvs=4)  
 *Ongoing project updates, reflections, and insights into professional development.*  
+
+
 
