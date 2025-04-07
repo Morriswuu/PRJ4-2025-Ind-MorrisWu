@@ -69,9 +69,9 @@ I aim to enhance my **data skills** through online courses and the Canon project
 *Demonstrates professional skills at Level 2 in the focus areas: future-oriented organization, investigative ability, personal leadership, and targeted interaction.*
 
 #### **Approach:**  
-Throughout this process, I aim to grow across multiple dimensions while keeping the experience **healthy** and **fun**. I track my journey through regular **reflections** and **dashboards**.
+Throughout this process, I aim to grow across multiple dimensions while keeping the experience **healthy** and **fun**. I track my journey through regularly **reflections** and **dashboards**.
 
-🔗 **Plan & Dashboard:** [Notion Link](https://www.notion.so/69af482bf292487385a758fc58def826?v=4752c5d6d20b4c4db05ed2329a3c6750&pvs=4)  
+🔗 **Plan & Dashboard (dynamic):** [Notion Link](https://www.notion.so/69af482bf292487385a758fc58def826?v=4752c5d6d20b4c4db05ed2329a3c6750&pvs=4)  
 *A detailed breakdown of weekly goals, challenges, and key takeaways.*
 
 #### **Focus Areas:**  
