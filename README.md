@@ -1,7 +1,3 @@
-Absolutely! Here's your updated **PRJ4-2025-Ind-MorrisWu** project log in English, fully rewritten and expanded to include **Week 6**, **Week 7**, and **Project Week 8** content based on your screenshots:
-
----
-
 # **PRJ4-2025-Ind-MorrisWu**
 
 ## **Learning Outcomes (LOs)**
@@ -83,9 +79,6 @@ Throughout this process, I aim to grow across multiple dimensions while keeping 
 🔗 **Reflection Dashboard:** [My Notion Dashboard](https://www.notion.so/95cc22b66ae046f9bd91589613a2b03c?v=cde7c9b78f49406bbeba6eda1662dcf5&pvs=4)  
 *Includes project updates, learnings, and progress reflection.*
 
----
-
-Let me know if you’d like a version in PDF, Markdown, or if you want help writing reflections or Canon project reports!
 
 
 
