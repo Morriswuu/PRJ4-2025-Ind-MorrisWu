@@ -1,4 +1,4 @@
-# 🗂️ **PRJ4-2025-Ind-MorrisWu – PDP (Week 1–11)**
+# 🗂️ **PRJ4-2025-Ind-MorrisWu – Personal Development Plan (Week 1–11)**
 
 ---
 
@@ -131,7 +131,13 @@ Started actual development — laid out data pipelines and built the first logic
 
 ### **📅 Week 9 – Data Understanding Deep Dive**
 
-🔗 📎 [Evidence – Jupyter Notebook](sandbox:/mnt/data/Data%20Understanding%20copy.ipynb)
+🔗 📎 [Evidence – Jupyter Notebook](sandbox:/mnt/data/Data%20Understanding%20copy.ipynb)<img width="1440" alt="Screenshot 2025-05-25 at 14 26 08" src="https://github.com/user-attachments/assets/7a4bedd7-bab0-476b-b3cf-d97772abda48" />
+<img width="1440" alt="Screenshot 2025-05-25 at 14 26 23" src="https://github.com/user-attachments/assets/e37738be-2741-4fb9-be5d-1d4c0bb7e333" />
+<img width="1440" alt="Screenshot 2025-05-25 at 14 26 28" src="https://github.com/user-attachments/assets/e8192ecd-62d9-4cac-90ee-323536b01c7b" />
+<img width="1440" alt="Screenshot 2025-05-25 at 14 26 34" src="https://github.com/user-attachments/assets/0d7a7119-4756-48eb-b134-4a71c392d718" />
+<img width="1440" alt="Screenshot 2025-05-25 at 14 26 39" src="https://github.com/user-attachments/assets/e8e977c7-46b0-4f5f-99c5-fafe0241a4c3" />
+<img width="1440" alt="Screenshot 2025-05-25 at 14 26 43" src="https://github.com/user-attachments/assets/90f776f2-3703-4722-8e86-8d7201d1880f" />
+
 Did **exploratory data analysis (EDA)**: distributions, outliers, missing values, correlations.
 
 * ✅ Activities: Histograms, heatmaps, descriptive stats
@@ -148,6 +154,8 @@ Did **exploratory data analysis (EDA)**: distributions, outliers, missing values
 
 🔗 📎 [Evidence – Jupyter Notebook](sandbox:/mnt/data/Model%20copy.ipynb)
 Started training the ML model. Did feature selection, normalization, and initial model training.
+<img width="1440" alt="Screenshot 2025-05-25 at 14 27 53" src="https://github.com/user-attachments/assets/c0faeeed-0f0b-4857-ae7d-7f608f40d853" />
+<img width="1440" alt="Screenshot 2025-05-25 at 14 27 58" src="https://github.com/user-attachments/assets/b64a6e0c-e30c-4360-bc7d-197dc9e085c1" />
 
 * ✅ Activities: Built baseline models, evaluated with accuracy + F1
 * 📄 Deliverables: First version of prediction pipeline
@@ -161,7 +169,8 @@ Started training the ML model. Did feature selection, normalization, and initial
 
 ### **📅 Week 11 – Model Tuning + Evaluation**
 
-🔗 📎 [Evidence – Jupyter Notebook](sandbox:/mnt/data/Model%20copy.ipynb)
+🔗 📎 [Evidence – Jupyter Notebook](sandbox:/mnt/data/Model%20copy.ipynb)<img width="1440" alt="Screenshot 2025-05-25 at 14 28 01" src="https://github.com/user-attachments/assets/e2c1e137-0b28-4e08-877e-66679c77b8c5" />
+
 Improved model performance with parameter tuning and better evaluation methods.
 
 * ✅ Activities: Used GridSearchCV, confusion matrix, and cross-validation
