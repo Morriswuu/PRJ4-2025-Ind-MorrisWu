@@ -1,4 +1,4 @@
-# 🗂️ **PRJ4-2025-Ind-MorrisWu – Personal Development Plan (Week 1–11)**
+# **PRJ4-2025-Ind-MorrisWu – Personal Development Plan (Week 1–11)**
 
 ---
 
