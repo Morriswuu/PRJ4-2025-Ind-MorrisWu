@@ -70,7 +70,7 @@ I began using **NumPy** and **Pandas** for preliminary data analysis and explore
 **Deliverables**:
 
 * Project planning notes and Python data exploration exercises
-  🔗 [Evidence](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Data%20Understanding%20copy.ipynb)
+  🔗 [Evidence]([https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Data%20Understanding%20copy.ipynb](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Business%20Case.txt))
 
 **LO2 Practice**:
 
