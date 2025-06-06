@@ -57,27 +57,28 @@ This week taught me the importance of abstraction. Writing clean, reusable funct
 
 ---
 
-### 📅 **Week 3 – Data Tools + Project Brainstorming**
+### 📅 **Week 3 – Data Tools + Project Brainstorming
+Summary:
+I began using NumPy and Pandas for preliminary data analysis and explored ideas for the Canon project, focusing on identifying potential data points and business objectives.
 
-**Summary**:
-I began using **NumPy** and **Pandas** for preliminary data analysis and explored ideas for the Canon project, focusing on identifying potential data points and business objectives.
+Activities:
 
-**Activities**:
+Manipulated Series and DataFrames
 
-* Manipulated Series and DataFrames
-* Brainstormed Canon project directions with structured notes
+Brainstormed Canon project directions with structured notes
 
-**Deliverables**:
+Deliverables:
 
-* Project planning notes and Python data exploration exercises
-  🔗 [Evidence]([https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Data%20Understanding%20copy.ipynb](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Business%20Case.txt))
+Project planning notes and Python data exploration exercises
+🔗 Evidence
 
-**LO2 Practice**:
+LO2 Practice:
 
-* **Future-Oriented Organization**: Identified long-term data needs for the Canon project
-* **Personal Leadership**: Took initiative to connect business challenges with technical capabilities
+Future-Oriented Organization: Identified long-term data needs for the Canon project
 
-**Reflection**:
+Personal Leadership: Took initiative to connect business challenges with technical capabilities
+
+Reflection:
 Exploring Pandas marked a turning point from pure coding to thinking in terms of datasets and use cases. I also began seeing how data could be structured to reflect real-world business logic.
 
 ---
