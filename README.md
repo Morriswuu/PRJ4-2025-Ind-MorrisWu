@@ -321,7 +321,7 @@ Focused on updateing the model and clean some code for final ver. and check why 
 **Deliverables**:
 
 * Updated version of the model 
-  🔗 [Evidence]([https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Model.ipynb](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Model_updated%EF%BC%BFcopy.ipynb))
+  🔗 [Evidence]([https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Model.ipynb](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Model_updated%EF%BC%BFcopy.ipynb)
 
 **LO2 Practice**:
 
