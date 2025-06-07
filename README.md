@@ -305,3 +305,29 @@ Focused on refining error label mismatches and finalized all pipeline components
 
 **Reflection**:
 This final phase was crucial to polishing the project. Catching edge-case label issues improved trust in the model and underlined the value of continual testing, even post-evaluation.
+
+---
+
+### 📅 **Week 13 – Update the Model**
+
+**Summary**:
+Focused on updateing the model and clean some code for final ver. and check why I choose this model and pros & cons.
+
+**Activities**:
+
+* Explain Pros & Cons
+* Explain the reason, how to process and performance
+
+**Deliverables**:
+
+* Updated version of the model 
+  🔗 [Evidence]([https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Model.ipynb](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Model_updated%EF%BC%BFcopy.ipynb))
+
+**LO2 Practice**:
+
+* **Investigative Ability**: Check every reason and code is fine and keep it logic
+* **Targeted Interaction**: Documented final logic with clarity for reviewers (same last week)
+
+**Reflection**:
+This update version is important. Confirm that and improve model and write down the reason with testing. Reflect the reason why I choose this model and the logic is enjoyable and satisfying.
+
