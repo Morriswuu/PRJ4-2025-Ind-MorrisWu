@@ -57,7 +57,7 @@ This week taught me the importance of abstraction. Writing clean, reusable funct
 
 ---
 
-### 📅 **Week 3 – Data Tools + Project Brainstorming
+### 📅 Week 3 – Data Tools + Project Brainstorming
 Summary:
 I began using NumPy and Pandas for preliminary data analysis and explored ideas for the Canon project, focusing on identifying potential data points and business objectives.
 
