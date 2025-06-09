@@ -70,7 +70,7 @@ Brainstormed Canon project directions with structured notes
 Deliverables:
 
 Project planning notes and Python data exploration exercises
-🔗 Evidence
+🔗 Evidence: https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Business%20Case.txt
 
 LO2 Practice:
 
