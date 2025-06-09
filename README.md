@@ -133,7 +133,7 @@ I defined the business case, mapped key users, and structured KPIs for the Canon
 
 **Deliverables**:
 
-* 🔗 [Notion Project Plan](https://www.notion.so/Business-Analysis-Structure-1b8f94066b8080d6a8a7e08eda0e8d54?pvs=4)
+* 🔗 [Notion Project Plan](https://www.notion.so/Business-Analysis-Structure-1b8f94066b8080d6a8a7e08eda0e8d54?source=copy_link)
 
 **LO2 Practice**:
 
