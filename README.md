@@ -1,333 +1,337 @@
-# **📘 PRJ4-2025-Ind-MorrisWu – Personal Development Plan (Week 1–13)**
+# 📘 **PRJ4-2025-Ind-MorrisWu – Personal Development Plan (Week 1–13)**
 
 ---
 
-## 🎯 **LO1: Plans and executes a project in the data track in an agile way (Level 2 HBO-i)**
+## 🎯 **Learning Outcome 1 (LO1)**
+
+*Rephrased:* I can successfully plan and execute a data-related project using agile practices—from understanding the problem to delivering the final model.
+
+## 🧠 **Learning Outcome 2 (LO2)**
+
+*Rephrased:* I’m developing essential professional skills like leadership, structured planning, investigative thinking, and clear communication.
 
 ---
 
-### 📅 **Week 1 – Getting Started with Python**
+## 🗺️ **Weekly Plan Overview**
+
+| Week  | Focus                         | Goal                                         |
+| ----- | ----------------------------- | -------------------------------------------- |
+| 1–2   | Python Basics                 | Build a solid foundation in syntax and logic |
+| 3–5   | Data Tools + Business Context | Explore data and define project scope        |
+| 6–7   | Testing + Code Reusability    | Structure code for testing and reuse         |
+| 8–10  | Canon Project Development     | Build model pipeline and perform EDA         |
+| 11–13 | Tuning + Finalization         | Optimize model and reflect on the process    |
+
+---
+
+## 📅 **Week 1 – Getting Started with Python**
 
 **Summary**:
-I laid the groundwork for my data skills by focusing on Python basics such as data structures (lists, dictionaries) and conditional logic. These skills are essential for any further data manipulation and analysis.
+I started learning Python by working on syntax, lists, dictionaries, and conditionals. These are the building blocks for working with data.
 
 **Activities**:
 
-* Completed beginner-level exercises on Python syntax
-* Practiced `if-else` statements, loops, and dictionary manipulations
+* Completed basic Python exercises
+* Practiced loops and `if-else` logic
 
 **Deliverables**:
 
-* Basic Python scripts implementing control flow and data structures
-  🔗 [Evidence](https://images.hahow.in/images/664ed9e92fcb5581a2712953)
+* 🔗 [Python Exercises](https://images.hahow.in/images/664ed9e92fcb5581a2712953)
 
 **LO2 Practice**:
 
-* **Personal Leadership**: Established consistent weekly study slots and stuck to the schedule
-* **Future-Oriented Organization**: Set up Git-based file and folder structure to manage project materials effectively
+* **Leadership**: Created and followed a weekly learning schedule
+* **Organization**: Set up project folders and version control with Git
 
 **Reflection**:
-Starting with the fundamentals helped me realize how much can be achieved with simple constructs. Organizing my environment early was crucial, and learning version control prepared me for collaborative work and future scalability.
+Starting from scratch felt a bit overwhelming, but building confidence with small tasks really helped. I also realized how useful it is to keep files organized—especially with Git. That will pay off big-time as the project grows.
 
 ---
 
-### 📅 **Week 2 – Diving into Loops and Functions**
+## 📅 **Week 2 – Diving into Loops and Functions**
 
 **Summary**:
-I progressed to control flow structures and modular programming using functions, as well as learned basic exception handling with `try/except`.
+I focused on writing loops, creating functions, and catching errors using `try/except`.
 
 **Activities**:
 
-* Built scripts using loops (`for`, `while`)
-* Practiced writing custom functions
-* Handled exceptions using `try/except`
+* Built scripts using `for` and `while`
+* Created reusable functions
+* Practiced basic error handling
 
 **Deliverables**:
 
-* Multiple Python exercises using loops and functions
-  🔗 [Evidence](https://images.hahow.in/images/66768214fb7a2272b4ba139a)
+* 🔗 [Loops and Functions Practice](https://images.hahow.in/images/66768214fb7a2272b4ba139a)
 
 **LO2 Practice**:
 
-* **Personal Leadership**: Defined clear goals for code quality and progress milestones
-* **Investigative Ability**: Researched how Python internally handles errors and stack traces
+* **Leadership**: Set specific learning goals
+* **Investigation**: Learned how Python handles errors internally
 
 **Reflection**:
-This week taught me the importance of abstraction. Writing clean, reusable functions significantly improved the readability and maintainability of my code. Debugging via error tracing also laid the foundation for better testing practices.
+This week helped me see that clean, reusable code saves time in the long run. Understanding how to trace and handle errors also made me feel more in control of what I write—less guessing, more logic.
 
 ---
 
-### 📅 Week 3 – Data Tools + Project Brainstorming
-Summary:
-I began using NumPy and Pandas for preliminary data analysis and explored ideas for the Canon project, focusing on identifying potential data points and business objectives.
-
-Activities:
-
-Manipulated Series and DataFrames
-
-Brainstormed Canon project directions with structured notes
-
-Deliverables:
-
-Project planning notes and Python data exploration exercises
-🔗 Evidence: https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Business%20Case.txt
-
-LO2 Practice:
-
-Future-Oriented Organization: Identified long-term data needs for the Canon project
-
-Personal Leadership: Took initiative to connect business challenges with technical capabilities
-
-Reflection:
-Exploring Pandas marked a turning point from pure coding to thinking in terms of datasets and use cases. I also began seeing how data could be structured to reflect real-world business logic.
-
----
-
-### 📅 **Week 4 – Mini Project: Data Cleaning + Visualization**
+## 📅 **Week 3 – Data Tools + Project Brainstorming**
 
 **Summary**:
-Using a sample dataset, I practiced cleaning real-world data and creating visualizations to gain preliminary insights. This included dealing with missing values and redundant entries.
+I started using NumPy and Pandas for data exploration and began brainstorming for the Canon project.
 
 **Activities**:
 
-* Performed `dropna`, `groupby`, and basic aggregations
-* Visualized trends using Seaborn and Matplotlib
+* Manipulated DataFrames and Series
+* Drafted Canon project ideas and structure
 
 **Deliverables**:
 
-* A visual report summarizing dataset quality and key patterns
-  🔗 [Evidence](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Data%20Understanding%20copy.ipynb)
+* 🔗 [Canon Project Notes](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Business%20Case.txt)
 
 **LO2 Practice**:
 
-* **Investigative Ability**: Analyzed outliers and NA values for meaning
-* **Targeted Interaction**: Shared results with peers to evaluate the clarity of visuals
+* **Organization**: Identified Canon's data needs early on
+* **Leadership**: Took initiative in shaping project direction
 
 **Reflection**:
-This hands-on experience with messy data made me appreciate the time-consuming yet critical nature of cleaning processes. It also underscored how visual communication impacts stakeholder understanding.
+It was the first time I looked at real business use cases through a data lens. That shift—from learning tools to applying them—was exciting and gave the project a sense of purpose.
 
 ---
 
-### 📅 **Week 5 – Project Framework + Business Context**
+## 📅 **Week 4 – Mini Project: Data Cleaning + Visualization**
 
 **Summary**:
-I worked on formally defining the business case for the Canon project, including key stakeholders, problem statements, and metrics.
+I practiced cleaning data and used visualizations to understand trends and quality issues.
 
 **Activities**:
 
-* Completed a project canvas
-* Outlined KPIs and user profiles
+* Used Pandas for cleaning (e.g., `dropna`, `groupby`)
+* Created graphs with Seaborn and Matplotlib
 
 **Deliverables**:
 
-* Canon project plan and Notion documentation
-  🔗 [Evidence](https://www.notion.so/Business-Analysis-Structure-1b8f94066b8080d6a8a7e08eda0e8d54?pvs=4)
+* 🔗 [Visual Report + Notebook](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Data%20Understanding%20copy.ipynb)
 
 **LO2 Practice**:
 
-* **Future-Oriented Organization**: Mapped technical insights to business outcomes
-* **Investigative Ability**: Conducted background research on Canon’s maintenance and error-reporting processes
+* **Investigation**: Explored outliers and NA values
+* **Interaction**: Shared and explained visual results to peers
 
 **Reflection**:
-This planning phase emphasized the importance of grounding data efforts in real business problems. It was challenging but rewarding to think like both an analyst and a stakeholder.
+Data cleaning was more time-consuming than expected, but super important. Seeing messy data transform into clear visuals was satisfying—and it taught me how much storytelling matters in data work.
 
 ---
 
-### 📅 **Week 6 – Unit Testing + Code Structure**
+## 📅 **Week 5 – Project Framework + Business Context**
 
 **Summary**:
-I finalized the Python course with a focus on writing unit tests using `unittest`. I ensured the reliability and correctness of utility functions by validating them through test coverage.
+I defined the business case, mapped key users, and structured KPIs for the Canon project.
 
 **Activities**:
 
-* Developed testable code blocks
-* Used assertions to catch logical errors
+* Completed the project canvas
+* Created profiles and metrics to align with Canon's needs
 
 **Deliverables**:
 
-* Python scripts with full test coverage
-  🔗 [Evidence](https://images.hahow.in/images/670e013310af204e9e444a30)
+* 🔗 [Notion Project Plan](https://www.notion.so/Business-Analysis-Structure-1b8f94066b8080d6a8a7e08eda0e8d54?pvs=4)
 
 **LO2 Practice**:
 
-* **Targeted Interaction**: Wrote clean docstrings and test documentation
-* **Investigative Ability**: Debugged failure cases using error logs and assertions
+* **Organization**: Connected technical steps to business outcomes
+* **Investigation**: Researched Canon’s internal processes
 
 **Reflection**:
-Testing taught me how to think ahead and anticipate edge cases. Writing reusable, validated code allowed me to scale confidently into more complex modules for the main project.
+This was a big mindset shift. It’s not just about building models—it’s about solving real business problems. Thinking like a stakeholder helped shape the “why” behind the project.
 
 ---
 
-### 📅 **Week 7 – Custom Functions & TDD Practice**
+## 📅 **Week 6 – Unit Testing + Code Structure**
 
 **Summary**:
-I refined my approach by writing helper functions for filtering and parsing. I applied Test-Driven Development (TDD) to validate logic as I wrote it.
+I practiced writing unit tests with `unittest` and improved code modularity.
 
 **Activities**:
 
-* Wrote utility functions from scratch
-* Implemented full unit test suites for each module
+* Wrote clean, testable functions
+* Used assertions to validate logic
 
 **Deliverables**:
 
-* Verified scripts and reusable code blocks
-  🔗 [Evidence](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Data%20Understanding%20copy.ipynb)
+* 🔗 [Tested Python Scripts](https://images.hahow.in/images/670e013310af204e9e444a30)
 
 **LO2 Practice**:
 
-* **Personal Leadership**: Proactively designed tools for future tasks
-* **Targeted Interaction**: Clear code annotation to aid collaboration
+* **Interaction**: Documented code clearly with docstrings
+* **Investigation**: Debugged failed tests using logs
 
 **Reflection**:
-Practicing TDD sharpened my thinking around inputs, outputs, and robustness. It instilled a habit of thinking about usability and clarity beyond just making something “work.”
+Testing forced me to slow down and think deeper about what the code is really doing. Catching bugs early saved future frustration—and gave me more confidence in scaling up.
 
 ---
 
-### 📅 **Week 8 – Canon Project Implementation (Phase 1)**
+## 📅 **Week 7 – Custom Functions & TDD Practice**
 
 **Summary**:
-I began implementing the Canon analysis logic, focusing on pipeline design, feature preparation, and simulating typical input-output workflows.
+Built helper functions and applied Test-Driven Development (TDD) to structure logic while coding.
 
 **Activities**:
 
-* Established script templates and logic flows
-* Integrated filtering logic for different copier models
+* Created reusable modules
+* Wrote unit tests before coding each function
 
 **Deliverables**:
 
-* Initial codebase simulating filter + error data flows
-  🔗 [Evidence](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Data%20Understanding%20copy.ipynb)
+* 🔗 [Reusable Code with Tests](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Data%20Understanding%20copy.ipynb)
 
 **LO2 Practice**:
 
-* **Future-Oriented Organization**: Built for scalability and modularity
-* **Investigative Ability**: Traced dependencies between sensor data and reported errors
+* **Leadership**: Designed tools for long-term use
+* **Interaction**: Added annotations and structure to assist team members
 
 **Reflection**:
-This week marked a move from exploration to real implementation. Designing the pipeline forced me to balance technical feasibility with data limitations.
+TDD helped me focus on writing code that’s clean and predictable. It was challenging at first, but seeing everything work as expected felt great—and it’ll definitely help when working in a team.
 
 ---
 
-### 📅 **Week 9 – Exploratory Data Analysis (EDA)**
+## 📅 **Week 8 – Canon Project Implementation (Phase 1)**
 
 **Summary**:
-Conducted a detailed data analysis phase to understand correlations between flow changes and error types.
+Started building the project’s logic—especially data filtering, preprocessing, and simulating real data flows.
 
 **Activities**:
 
-* Created histograms, heatmaps, and scatter plots
-* Analyzed feature importance and missing value patterns
+* Created script templates
+* Built model-specific filtering logic
 
 **Deliverables**:
 
-* Annotated Jupyter Notebook with statistical findings
-  🔗 [Evidence](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Data%20Understanding%20copy.ipynb)
+* 🔗 [Implementation Scripts](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Data%20Understanding%20copy.ipynb)
 
 **LO2 Practice**:
 
-* **Investigative Ability**: Identified key signal patterns from error logs
-* **Targeted Interaction**: Documented findings clearly for future reference
+* **Organization**: Designed pipeline for scalability
+* **Investigation**: Linked sensor data to reported errors
 
 **Reflection**:
-Understanding the data revealed potential inconsistencies in error logging. It also prepared the ground for meaningful feature engineering in the modeling stage.
+Building the actual pipeline made everything feel real. I had to constantly balance what's technically possible with what makes sense for the data and the business.
 
 ---
 
-### 📅 **Week 10 – Model Development (Phase 1)**
+## 📅 **Week 9 – Exploratory Data Analysis (EDA)**
 
 **Summary**:
-Developed baseline models to predict error types based on flow variables. Evaluated initial results using accuracy and F1 scores.
+Conducted in-depth EDA to uncover meaningful patterns in the data.
 
 **Activities**:
 
-* Trained classifiers on preprocessed data
-* Compared metrics to identify a starting point
+* Visualized features and distributions
+* Analyzed correlations and missing values
 
 **Deliverables**:
 
-* Initial predictive model
-  🔗 [Evidence](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Model.ipynb)
+* 🔗 [Annotated EDA Notebook](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Data%20Understanding%20copy.ipynb)
 
 **LO2 Practice**:
 
-* **Personal Leadership**: Managed modeling timeline efficiently
-* **Future-Oriented Organization**: Modularized code for retraining and reuse
+* **Investigation**: Found patterns in error logs
+* **Interaction**: Clearly documented statistical results
 
 **Reflection**:
-Creating a functioning model was a major milestone. It was also a humbling reminder that accuracy alone is not enough — interpretability and business relevance matter too.
+EDA helped me better understand the story behind the numbers. Some findings even made me question the quality of the logging system—good reminder to always stay critical.
 
 ---
 
-### 📅 **Week 11 – Model Tuning and Evaluation**
+## 📅 **Week 10 – Model Development (Phase 1)**
 
 **Summary**:
-Improved the model through hyperparameter tuning and added cross-validation to ensure performance generalizes across unseen data.
+Created baseline models and evaluated their performance.
 
 **Activities**:
 
-* Applied GridSearchCV and confusion matrices
-* Performed stratified cross-validation
+* Preprocessed data for training
+* Used accuracy and F1 score to compare models
 
 **Deliverables**:
 
-* Tuned model with evaluation report
-  🔗 [Evidence](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Model.ipynb)
+* 🔗 [Baseline Model Notebook](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Model.ipynb)
 
 **LO2 Practice**:
 
-* **Investigative Ability**: Interpreted confusion matrices and recall metrics
-* **Future-Oriented Organization**: Integrated tuning into pipeline design
+* **Leadership**: Managed time to hit modeling goals
+* **Organization**: Modularized scripts for reuse
 
 **Reflection**:
-Tuning taught me how even small parameter shifts can impact results. I also learned to look deeper into metrics beyond accuracy to understand the model’s true performance.
+Building a working model was a big milestone. But I also realized that good performance isn't enough—if stakeholders can’t understand or trust it, it won’t be useful.
 
 ---
 
-### 📅 **Week 12 – Final Optimization and Error Correction**
+## 📅 **Week 11 – Model Tuning and Evaluation**
 
 **Summary**:
-Focused on refining error label mismatches and finalized all pipeline components for deployment or final presentation.
+Improved the model using tuning and added cross-validation for reliability.
+
+**Activities**:
+
+* Used GridSearchCV and confusion matrices
+* Implemented stratified cross-validation
+
+**Deliverables**:
+
+* 🔗 [Tuned Model Report](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Model.ipynb)
+
+**LO2 Practice**:
+
+* **Investigation**: Explored recall, precision, and confusion matrices
+* **Organization**: Integrated tuning into the model pipeline
+
+**Reflection**:
+Small parameter changes made a big difference! It taught me that evaluation isn’t just about metrics—it’s about understanding what they really mean.
+
+---
+
+## 📅 **Week 12 – Final Optimization and Error Correction**
+
+**Summary**:
+Refined model results, corrected mislabeled errors, and prepared the model for handoff.
 
 **Activities**:
 
 * Investigated misclassifications
-* Adjusted thresholds and revalidated the model logic
+* Cleaned up final scripts
 
 **Deliverables**:
 
-* Final version of the model with corrected labeling issues
-  🔗 [Evidence](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Model.ipynb)
+* 🔗 [Final Model Notebook](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Model.ipynb)
 
 **LO2 Practice**:
 
-* **Investigative Ability**: Mapped false positives to root causes
-* **Targeted Interaction**: Documented final logic with clarity for reviewers
+* **Investigation**: Traced false positives to root causes
+* **Interaction**: Wrote clean final documentation for review
 
 **Reflection**:
-This final phase was crucial to polishing the project. Catching edge-case label issues improved trust in the model and underlined the value of continual testing, even post-evaluation.
+It was satisfying to polish things up. Fixing small errors made the model much more reliable—and it felt good to see everything come together.
 
 ---
 
-### 📅 **Week 13 – Update the Model**
+## 📅 **Week 13 – Model Update & Final Report**
 
 **Summary**:
-Focused on updateing the model and clean some code for final ver. and check why I choose this model and pros & cons.
+Reviewed the model choice, cleaned final code, and reflected on pros and cons.
 
 **Activities**:
 
-* Explain Pros & Cons
-* Explain the reason, how to process and performance
+* Explained reasoning for model selection
+* Finalized documentation and performance discussion
 
 **Deliverables**:
 
-* Updated version of the model & model report
-  🔗 [Evidence]([https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Model.ipynb](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Model_updated%EF%BC%BFcopy.ipynb)
-https://docs.google.com/document/d/1rRLHiFH2wqMoqDDcu9elWr2_L8A1iKfibZl_4BDfjzM/edit?usp=sharing
+* 🔗 [Updated Model](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Model_updated%EF%BC%BFcopy.ipynb)
+* 🔗 [Model Report](https://docs.google.com/document/d/1rRLHiFH2wqMoqDDcu9elWr2_L8A1iKfibZl_4BDfjzM/edit?usp=sharing)
 
 **LO2 Practice**:
 
-* **Investigative Ability**: Check every reason and code is fine and keep it logic
-* **Targeted Interaction**: Documented final logic with clarity for reviewers (same last week)
+* **Investigation**: Double-checked all logic and justification
+* **Interaction**: Wrote final report with reviewers in mind
 
 **Reflection**:
 This update version is important. Confirm that and improve model and write down the reason with testing. Reflect the reason why I choose this model and the logic is enjoyable and satisfying.
