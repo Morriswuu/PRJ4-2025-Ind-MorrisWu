@@ -320,8 +320,9 @@ Focused on updateing the model and clean some code for final ver. and check why 
 
 **Deliverables**:
 
-* Updated version of the model 
+* Updated version of the model & model report
   🔗 [Evidence]([https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Model.ipynb](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Model_updated%EF%BC%BFcopy.ipynb)
+https://docs.google.com/document/d/1rRLHiFH2wqMoqDDcu9elWr2_L8A1iKfibZl_4BDfjzM/edit?usp=sharing
 
 **LO2 Practice**:
 
