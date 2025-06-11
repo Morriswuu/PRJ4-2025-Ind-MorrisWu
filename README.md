@@ -51,7 +51,7 @@ Starting from scratch felt a bit overwhelming, but building confidence with smal
 ## 📅 **Week 2 – Diving into Loops and Functions**
 
 **Summary**:
-I focused on writing loops, creating functions, and catching errors using `try/except`.
+This week I explored how to use loops, define custom functions, and manage errors using `try/except`. I also began outlining how these elements can support real use cases for the Canon project.
 
 **Activities**:
 
@@ -62,6 +62,7 @@ I focused on writing loops, creating functions, and catching errors using `try/e
 **Deliverables**:
 
 * 🔗 [Loops and Functions Practice](https://images.hahow.in/images/66768214fb7a2272b4ba139a)
+* 🔗 [Canon Project – Week 2 Notes](https://www.notion.so/Canon-Project-W2-1a8f94066b80804f8ec4f6d6234ab848?source=copy_link)
 
 **LO2 Practice**:
 
@@ -69,14 +70,14 @@ I focused on writing loops, creating functions, and catching errors using `try/e
 * **Investigation**: Learned how Python handles errors internally
 
 **Reflection**:
-This week helped me see that clean, reusable code saves time in the long run. Understanding how to trace and handle errors also made me feel more in control of what I write—less guessing, more logic.
+This week helped me see that clean, reusable code saves time in the long run. Understanding how to trace and handle errors also made me feel more in control of what I write—less guessing, more logic. Starting to connect code to business logic made everything more meaningful.
 
 ---
 
 ## 📅 **Week 3 – Data Tools + Project Brainstorming**
 
 **Summary**:
-I started using NumPy and Pandas for data exploration and began brainstorming for the Canon project.
+I started using NumPy and Pandas for data exploration and began brainstorming for the Canon project. We discussed use cases, initial hypotheses, and key data features.
 
 **Activities**:
 
@@ -86,6 +87,7 @@ I started using NumPy and Pandas for data exploration and began brainstorming fo
 **Deliverables**:
 
 * 🔗 [Canon Project Notes](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Business%20Case.txt)
+* 🔗 [Canon Project – Week 3 Notion](https://www.notion.so/Canon-Project-W3-1a5f94066b80800285e2c89aae6a04f6?source=copy_link)
 
 **LO2 Practice**:
 
@@ -93,14 +95,14 @@ I started using NumPy and Pandas for data exploration and began brainstorming fo
 * **Leadership**: Took initiative in shaping project direction
 
 **Reflection**:
-It was the first time I looked at real business use cases through a data lens. That shift—from learning tools to applying them—was exciting and gave the project a sense of purpose.
+It was the first time I looked at real business use cases through a data lens. The brainstorming sessions helped clarify the project's goals and constraints. That shift—from learning tools to applying them—was exciting and gave the project a sense of purpose.
 
 ---
 
 ## 📅 **Week 4 – Mini Project: Data Cleaning + Visualization**
 
 **Summary**:
-I practiced cleaning data and used visualizations to understand trends and quality issues.
+I practiced cleaning data and used visualizations to understand trends, missing values, and quality issues. Also documented insights related to Canon's operational data.
 
 **Activities**:
 
@@ -110,6 +112,7 @@ I practiced cleaning data and used visualizations to understand trends and quali
 **Deliverables**:
 
 * 🔗 [Visual Report + Notebook](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Data%20Understanding%20copy.ipynb)
+* 🔗 [Canon Project – Week 4 Visual Exploration](https://www.notion.so/Canon-Project-W4-1c5f94066b80803bb1a4d7345e5ec2c0?source=copy_link)
 
 **LO2 Practice**:
 
@@ -117,7 +120,7 @@ I practiced cleaning data and used visualizations to understand trends and quali
 * **Interaction**: Shared and explained visual results to peers
 
 **Reflection**:
-Data cleaning was more time-consuming than expected, but super important. Seeing messy data transform into clear visuals was satisfying—and it taught me how much storytelling matters in data work.
+Data cleaning was more time-consuming than expected, but incredibly important. I learned to treat visualizations as tools for both insight and communication. This week also deepened my understanding of Canon’s sensor data and error logs.
 
 ---
 
@@ -148,7 +151,7 @@ This was a big mindset shift. It’s not just about building models—it’s abo
 ## 📅 **Week 6 – Unit Testing + Code Structure**
 
 **Summary**:
-I practiced writing unit tests with `unittest` and improved code modularity.
+I practiced writing unit tests with `unittest` and improved code modularity. I also structured testing scripts for parts of Canon's preprocessing logic.
 
 **Activities**:
 
@@ -158,6 +161,7 @@ I practiced writing unit tests with `unittest` and improved code modularity.
 **Deliverables**:
 
 * 🔗 [Tested Python Scripts](https://images.hahow.in/images/670e013310af204e9e444a30)
+* 🔗 [Canon Project – Week 6 Notes](https://www.notion.so/Canon-Project-W6-1c7f94066b80800994e9d0ad868e4c60?source=copy_link)
 
 **LO2 Practice**:
 
@@ -165,14 +169,14 @@ I practiced writing unit tests with `unittest` and improved code modularity.
 * **Investigation**: Debugged failed tests using logs
 
 **Reflection**:
-Testing forced me to slow down and think deeper about what the code is really doing. Catching bugs early saved future frustration—and gave me more confidence in scaling up.
+Testing made me think more deeply about logic flow and edge cases. For the Canon project, testing was crucial to validate filters and transformations. It’s satisfying to catch bugs early and build more trust in my code.
 
 ---
 
 ## 📅 **Week 7 – Custom Functions & TDD Practice**
 
 **Summary**:
-Built helper functions and applied Test-Driven Development (TDD) to structure logic while coding.
+Built helper functions and applied Test-Driven Development (TDD) to structure logic while coding. Documented reusable logic for Canon’s preprocessing.
 
 **Activities**:
 
@@ -182,6 +186,7 @@ Built helper functions and applied Test-Driven Development (TDD) to structure lo
 **Deliverables**:
 
 * 🔗 [Reusable Code with Tests](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Data%20Understanding%20copy.ipynb)
+* 🔗 [Canon Project – Week 7 Notion](https://www.notion.so/Canon-Project-W7-1b8f94066b8080269e8af2991fb479da?source=copy_link)
 
 **LO2 Practice**:
 
@@ -189,7 +194,7 @@ Built helper functions and applied Test-Driven Development (TDD) to structure lo
 * **Interaction**: Added annotations and structure to assist team members
 
 **Reflection**:
-TDD helped me focus on writing code that’s clean and predictable. It was challenging at first, but seeing everything work as expected felt great—and it’ll definitely help when working in a team.
+TDD helped me focus on writing intentional and testable logic. It was hard to follow at first, but worth it. These reusable components will support future iterations in the Canon pipeline and help teammates build upon consistent logic.
 
 ---
 
@@ -334,5 +339,5 @@ Reviewed the model choice, cleaned final code, and reflected on pros and cons.
 * **Interaction**: Wrote final report with reviewers in mind
 
 **Reflection**:
-This update version is important. Confirm that and improve model and write down the reason with testing. Reflect the reason why I choose this model and the logic is enjoyable and satisfying.
+This update version is important. I confirmed the model's value, made improvements based on test results, and documented the reasoning behind the final decision. It was both logical and creatively satisfying to see the entire project aligned with a business purpose.
 
