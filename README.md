@@ -330,7 +330,7 @@ Reviewed the model choice, cleaned final code, and reflected on pros and cons.
 
 **Deliverables**:
 
-* 🔗 [Updated Model](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Model_updated%EF%BC%BFcopy.ipynb)
+* 🔗 [Updated Model](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Model_updated_copy.ipynb)
 * 🔗 [Model Report](https://docs.google.com/document/d/1rRLHiFH2wqMoqDDcu9elWr2_L8A1iKfibZl_4BDfjzM/edit?usp=sharing)
 
 **LO2 Practice**:
