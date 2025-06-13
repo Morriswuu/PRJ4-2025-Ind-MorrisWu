@@ -233,7 +233,7 @@ Conducted in-depth EDA to uncover meaningful patterns in the data.
 
 **Deliverables**:
 
-* 🔗 [Annotated EDA Notebook](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Data%20Understanding%20copy.ipynb)
+* 🔗 [EDA Notebook](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Data%20Understanding%20copy.ipynb)
 
 **LO2 Practice**:
 
