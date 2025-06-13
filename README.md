@@ -56,7 +56,6 @@ This week I explored how to use loops, define custom functions, and manage error
 **Activities**:
 
 * Built scripts using `for` and `while`
-* Created reusable functions
 * Practiced basic error handling
 
 **Deliverables**:
@@ -70,7 +69,7 @@ This week I explored how to use loops, define custom functions, and manage error
 * **Investigation**: Learned how Python handles errors internally
 
 **Reflection**:
-This week helped me see that clean, reusable code saves time in the long run. Understanding how to trace and handle errors also made me feel more in control of what I write—less guessing, more logic. Starting to connect code to business logic made everything more meaningful.
+This week helped me see that clean. Understanding how to trace and handle errors also made me feel more in control of what I write—less guessing, more logic. Starting to connect code to business logic made everything more meaningful.
 
 ---
 
