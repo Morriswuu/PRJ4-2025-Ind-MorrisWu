@@ -276,7 +276,6 @@ Improved the model using tuning and added cross-validation for reliability.
 
 **Activities**:
 
-* Used GridSearchCV and confusion matrices
 * Implemented stratified cross-validation
 
 **Deliverables**:
