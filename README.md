@@ -44,7 +44,7 @@ I started learning Python by working on syntax, lists, dictionaries, and conditi
 * **Organization**: Set up project folders and version control with Git
 
 **Reflection**:
-Starting from scratch felt a bit overwhelming, but building confidence with small tasks really helped. I also realized how useful it is to keep files organized—especially with Git. That will pay off big-time as the project grows.
+Starting from scratch felt a bit overwhelming, but building confidence with small tasks really helped. I also realized how useful it is to keep files organized—especially with Git and Notion. That will pay off big-time as the project grows.
 
 ---
 
