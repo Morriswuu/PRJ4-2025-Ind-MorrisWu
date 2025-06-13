@@ -150,7 +150,7 @@ This was a big mindset shift. It’s not just about building models—it’s abo
 ## 📅 **Week 6 – Unit Testing + Code Structure**
 
 **Summary**:
-I practiced writing unit tests with `unittest` and improved code modularity. I also structured testing scripts for parts of Canon's preprocessing logic.
+I practiced writing and improved code modularity. I also structured testing scripts for parts of Canon's preprocessing logic.
 
 **Activities**:
 
