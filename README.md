@@ -110,7 +110,7 @@ I practiced cleaning data and used visualizations to understand trends, missing 
 
 **Deliverables**:
 
-* 🔗 [Visual Report + Notebook](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Data%20Understanding%20copy.ipynb)
+* 🔗 [Visual Report + Notebook](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/EDA_copy.ipynb)
 * 🔗 [Canon Project – Week 4 Visual Exploration](https://www.notion.so/Canon-Project-W4-1c5f94066b80803bb1a4d7345e5ec2c0?source=copy_link)
 
 **LO2 Practice**:
@@ -184,7 +184,7 @@ Built helper functions and applied Test-Driven Development (TDD) to structure lo
 
 **Deliverables**:
 
-* 🔗 [Reusable Code with Tests](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Data%20Understanding%20copy.ipynb)
+* 🔗 [Reusable Code with Tests](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/EDA_copy.ipynb)
 * 🔗 [Canon Project – Week 7 Notion](https://www.notion.so/Canon-Project-W7-1b8f94066b8080269e8af2991fb479da?source=copy_link)
 
 **LO2 Practice**:
@@ -209,7 +209,7 @@ Started building the project’s logic—especially data filtering, preprocessin
 
 **Deliverables**:
 
-* 🔗 [Implementation Scripts](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Data%20Understanding%20copy.ipynb)
+* 🔗 [Implementation Scripts](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/EDA_copy.ipynb)
 
 **LO2 Practice**:
 
@@ -233,7 +233,7 @@ Conducted in-depth EDA to uncover meaningful patterns in the data.
 
 **Deliverables**:
 
-* 🔗 [EDA Notebook](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Data%20Understanding%20copy.ipynb)
+* 🔗 [EDA Notebook](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/EDA_copy.ipynb)
 
 **LO2 Practice**:
 
@@ -257,7 +257,7 @@ Created baseline models and evaluated their performance.
 
 **Deliverables**:
 
-* 🔗 [Baseline Model Notebook](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Model.ipynb)
+* 🔗 [Baseline Model Notebook](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Model%20prep_copy.ipynb)
 
 **LO2 Practice**:
 
@@ -280,7 +280,7 @@ Improved the model using tuning and added cross-validation for reliability.
 
 **Deliverables**:
 
-* 🔗 [Tuned Model Report](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Model.ipynb)
+* 🔗 [Tuned Model Report](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Model%20prep_copy.ipynb)
 
 **LO2 Practice**:
 
@@ -304,7 +304,7 @@ Refined model results, corrected mislabeled errors, and prepared the model for h
 
 **Deliverables**:
 
-* 🔗 [Final Model Notebook](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Model.ipynb)
+* 🔗 [Final Model Notebook](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Model%20prep_copy.ipynb)
 
 **LO2 Practice**:
 
@@ -328,7 +328,7 @@ Reviewed the model choice, cleaned final code, and reflected on pros and cons.
 
 **Deliverables**:
 
-* 🔗 [Updated Model](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/Model_updated_copy.ipynb)
+* 🔗 [Updated Model](https://github.com/FontysVenlo/PRJ4-2025-D02/blob/main/InkSight_copy.ipynb)
 * 🔗 [Model Report](https://docs.google.com/document/d/1rRLHiFH2wqMoqDDcu9elWr2_L8A1iKfibZl_4BDfjzM/edit?usp=sharing)
 
 **LO2 Practice**:
